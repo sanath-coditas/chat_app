@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sanath Gattu",
+      "image": "https://wpdaddy.com/wp-content/uploads/2020/11/thispersondoesnotexist.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Julie Sweet",
+      "image": "https://wpdaddy.com/wp-content/uploads/2020/11/thispersondoesnotexist.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Marie Kon",
+      "image": "https://wpdaddy.com/wp-content/uploads/2020/11/thispersondoesnotexist.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Naveen Madur",
+      "image": "https://wpdaddy.com/wp-content/uploads/2020/11/thispersondoesnotexist.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Julie Garret",
+      "image": "https://wpdaddy.com/wp-content/uploads/2020/11/thispersondoesnotexist.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Akanksha Mishra",
+      "image": "https://wpdaddy.com/wp-content/uploads/2020/11/thispersondoesnotexist.jpg"
+    }
+  ],
+  "user_chats": {
+    "25769803776": [
+      {
+        "message": "Heyy",
+        "createdTime": "2022-10-06 21:24:38.161715",
+        "userId": 2,
+        "recipientId": 6
+      },
+      {
+        "message": "Sup?",
+        "createdTime": "2022-10-06 21:24:43.045992",
+        "userId": 2,
+        "recipientId": 6
+      }
+    ],
+    "8589934592": [
+      {
+        "message": "Hoiiii",
+        "createdTime": "2022-10-06 21:24:51.846246",
+        "userId": 2,
+        "recipientId": 1
+      },
+      {
+        "message": "Sample Hi",
+        "createdTime": "2022-10-07 10:11:29.118327",
+        "userId": 1,
+        "recipientId": 2
+      }
+    ],
+    "17179869184": [
+      {
+        "message": "Sample",
+        "createdTime": "2022-10-06 21:25:00.449340",
+        "userId": 2,
+        "recipientId": 4
+      },
+      {
+        "message": "j dfg djdbfg daily s gkdsjgb dfgljkbds glad h dkjlgbd likens bldsjkfg Bella gbdslkgb dkjlb gab gdkbg king kdjbklgb sign kgb skiff kdbdkjg sign dkljdlgbd gkljbdgbdkjgb likens glbgdibgub dbfgjkbdsgjb dsgbdsgkjbgksdbgjdkgn sdkjgbsdligubirebdjfbgsdfgusdbfghjsdfs dbgdsjghbdslgjsdbgklsdbgiuerbg;and j;Adi-Buddha aldjbgjkbakgja gbk b baking ash sigh s kilns kajbsgkjasb gal ba g sdbgkabkajl gl daub gadbkbjabklb flashing Alston;asking a;dkjgn ;Abha;by ;akgjf alkjbga ;akd",
+        "createdTime": "2022-10-06 21:26:28.614532",
+        "userId": 1,
+        "recipientId": 4
+      }
+    ]
+  }
+}
